@@ -1,0 +1,29 @@
+﻿  Bitmap.cpp
+  Box.cpp
+  Bullet.cpp
+  Enemy.cpp
+c:\users\sunrin\desktop\기능반 엔진\enemy.cpp(237): warning C4458: 'damage' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\sunrin\desktop\기능반 엔진\enemy.h(28): note: 'Enemy::damage' 선언을 참조하십시오.
+  EnemyManager.cpp
+  Furnace.cpp
+c:\users\sunrin\desktop\기능반 엔진\furnace.cpp(59): warning C4458: 'smeltItem' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\sunrin\desktop\기능반 엔진\furnace.h(18): note: 'Furnace::smeltItem' 선언을 참조하십시오.
+  GameManager.cpp
+  GameScene.cpp
+  Item.cpp
+  MainScene.cpp
+  Mine.cpp
+  Money.cpp
+  Player.cpp
+  Structure.cpp
+c:\users\sunrin\desktop\기능반 엔진\structure.cpp(200): warning C4458: 'state' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\sunrin\desktop\기능반 엔진\unit.h(16): note: 'Unit::state' 선언을 참조하십시오.
+c:\users\sunrin\desktop\기능반 엔진\structure.cpp(225): warning C4458: 'damage' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\sunrin\desktop\기능반 엔진\structure.h(35): note: 'Structure::damage' 선언을 참조하십시오.
+  UI.cpp
+  Weapon.cpp
+c:\users\sunrin\desktop\기능반 엔진\weapon.cpp(225): warning C4458: 'state' 선언은 클래스 멤버를 숨깁니다.
+  c:\users\sunrin\desktop\기능반 엔진\weapon.h(20): note: 'Weapon::state' 선언을 참조하십시오.
+  World.cpp
+  코드를 생성하고 있습니다...
+  Engine Final_2010.vcxproj -> C:\Users\Sunrin\Desktop\기능반 엔진\Debug\Engine Final.exe
